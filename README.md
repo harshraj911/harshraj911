@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- ===== HERO ===== -->
 
 <h1 align="center">Harsh Raj</h1>
@@ -68,3 +69,8 @@ Email: your_email_here@gmail.com
 ---
 
 <p align="center"><i>Focused on depth, not noise.</i></p>
+=======
+# 🎮 GitHub Space Shooter – Step-by-Step Guide
+
+Follow the guide inside this repository to set up the GitHub Space Shooter animation.
+>>>>>>> 044c787 (Initial commit)
